@@ -1,6 +1,8 @@
 # megafon-test
 Data science тестовое на стажировку в Мегафон осень 2020
 
+train.csv (60 мб, не влез): https://drive.google.com/drive/folders/13t04QMrjjUYY49v4btfffBtp6CWaDHo5?usp=sharing
+
 Кейс:
 Стоит задача сегментировать абонентов по трем категориям (0,1,2).
 Постановка задачи:
